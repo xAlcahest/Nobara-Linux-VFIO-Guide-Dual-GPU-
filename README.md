@@ -7,7 +7,7 @@ This is the method i used to install Windows 10in KVM using GPU passthrough and 
 You need:
  - Nobara Linux (38) on your system
  - Two GPUs in different IOMMU groups
- - A KVM Switch (search on Amazon)
+ - A KVM Switch (search on Amazon) or an extra configuration in virt-manager (still Work in Progress)
 
 Optional for audio
  - Male to Male Jack cable
